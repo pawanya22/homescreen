@@ -94,9 +94,9 @@ const styles = StyleSheet.create({
     width: '100%',
     justifyContent: 'space-between',
   },
-  saleButton: {
-    marginTop: 10,
-  },
+  //saleButton: {
+    //marginTop: 10,
+  //},
 });
 
 export default HomeScreen;
